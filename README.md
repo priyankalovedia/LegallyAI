@@ -1,1 +1,1 @@
-# LegallyAI
+# AI-based-Legal-Research-Assistant

@@ -1,0 +1,9 @@
+# streamlit_authenticator
+# groq
+# streamlit-option-menu
+
+streamlit
+openai
+groq
+python-dotenv
+pandas
